@@ -90,3 +90,5 @@ server <- function(input, output) {
 
 # Run the Shiny app
 shinyApp(ui, server)
+
+#Test
